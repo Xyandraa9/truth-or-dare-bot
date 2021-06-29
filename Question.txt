@@ -1,0 +1,224 @@
+/* ######################################## TRUTH #################################################
+   Q. What's a weird food combination that you like? 
+   Q. What song u like the melody but dislike the lyrics
+   Q. What's the weirdest butterfly effect that's happened in your life? 
+   Q. If you were to kill your anime kin from any anime who would it be?
+   Q. Which anime/movie/book character would you like to live as for 24 hours?
+   Q. If you were to live any antagonists life for a day, who would it be and why?
+   Q. If you could change anything in the world, what would it be?
+   Q. Which movie character do you relate to the most?
+   Q. Who is your favorite comfort character, and why?
+   Q. Who's your favorite fictional character and why?
+   Q. If you had to choose to spectate your enemy's life or best friend's life, who would 
+      you choose?(the enemy and/or best friend role could or could not be mutual to them)
+   Q. What music is so last year but you still like to listen to?
+   Q. What show/movie is so badly written, but you would watch over and over again anyway?
+   Q. Who is a anime character you thought was the mc but it wasn’t actually the mc?
+   Q. If you could be born as a movie/book/anime character but lead your own life (not through 
+      storyline),who would u choose? what would u do? why?
+   Q. Who's a character that you love but everyone else hates?
+   Q. What anime character do you hate but everyone loves?
+   Q. What sport do you think u would win in every game?
+   Q. What high level job do you think you could lie your way into with no experience and no 
+      one would notice?
+   Q. What emoji are you randomly obsessed with?
+   Q. What's the most random unpopular opinion you have? (And if you can't think of any, 
+      then just whats a normal one you have)?
+   Q. Is there something that still haunts you to this day, even though everyone else forgot 
+      about it? (Like something embarrassing for you)
+   Q. What's the dumbest or smartest thing you ever started?
+   Q. If you had to survive in the world of the last anime/movie you watched, how do you
+      think you’d do?
+   Q. Do you think your role model from when you were a child and your role model now would
+      be friends?
+   Q. What is the stupidest thing someone told you that you actually believed?
+   Q. Eat cold butter or melted butter?
+   Q. What if you’re living in a dream? Would u want to wake up or just get away from reality?
+   Q. What is the most useless talent you have?
+   Q. What was the weirdest phase you've been through?
+   Q. Would you rather go forward in time by 200 years and live in the future, or go back in 
+      time by 200 years and live in the past?
+   Q. Would u rather stay indoors with wifi, air con but there’s mosquitoes and flies, or
+      would u rather stay outdoors with no wifi, under the summer sun, and no bugs?
+   Q. What are u thinking about right now?
+   Q. What were you doing when you felt most passionate and alive?
+   Q. Whats a question youll never find the answer to?
+   Q. What's the best birthday present you've ever received?
+   Q. What's your favourite icecream flavour?
+   Q. Do you like mint chocolate? Or do you think it tastes like toothpaste?
+   Q. By the end of this decade, most people are gonna get married. Are you the type who 
+      thinks marriage is a prison, or are you looking forward to it?
+   Q. What shape does english sound like? ( its a valid question so shut the fuck up and 
+      answer)
+   Q. What's something that never fails to make you smile?
+   Q. What fruit is the most ‘travel-wise’??
+   Q. What's something you can ramble on for ages about?
+   Q. What is ur favorite nickname?
+   Q. Who is your yellow? (if you don't know what yellow means, it's the person who 
+      means the most to you/whom you love most.)
+   Q. What would you do if someone romantically confess to you?
+   Q. What is ur comfort item? ( mine is a totoro plushie) 
+   Q. What is ur favorite game?
+   Q. If I were to summon you via black magic, what 5 items would I need to put on 
+      your pentagram?
+   Q. Which is your favourite Indian festival? Why?
+   Q. What is your favorite flower(s)?
+   Q. If u lost a part of your memory for an unknown reason, and had a choice to recover
+      it, would u? why? (the cause of loss of memory is unknown)
+   Q. If you had 30 seconds to 1 min for the whole world to hear what you say, what would 
+      you say?
+   Q. What's something that seemingly everyone else can do but you can't?
+   Q. If you could be inside the body of a specific person you personally know, for a day
+      and live their life,who would that be? Why?
+   Q. What’s a really weird fear you have?
+   Q. If you were not working for the job you are studying for right now, what would you
+      be doing? (Eg, other than CSE, i would prolly be doing gardening)
+   Q. When you are feeling upset/lonely, what is it that you tell yourself?
+   Q. What is your fav & least fav thing about Covid?
+   Q. What are some superstitious habits/acts that you have?
+   Q. In your opinion, what is the most cringy dad joke?
+   Q. If you were to transfer ur soul into a object and see the world from its 
+      perspective for 30 years, what would u transfer to, why?
+   Q. What's your favourite board game?
+   Q. what genre of movies/books do you like? Why?
+   Q. Are you more math/science smart or english/history smart?
+   Q. If you could describe yourself as a colour, what colour would you be and why?
+   Q. Whats a cute lil way to say i love you without saying i love you?
+   Q. What talent would you want to possess if you could?
+   Q. If you can see something that is invisible/too small to see with naked eye, 
+      what would you want to see? ( I know what ur thinking about, but not that)
+   Q. If you are made of what you eat, what are the top 5 things you'll be made of? 
+      feel free to list more.
+   Q. What are your weirdest ideas to pass time when you...
+      1, Have a device with wifi connection
+      2, Have a device with no connection
+      3, Do not have a device
+   Q. What are two (or more) songs that you think would make an awesome remix if put together?
+   Q. What is the most hilarious WiFi name u have ever seen?
+   Q. What are some of your most random thoughts? eg. could we secretly all be refrigerators?
+   Q. What are some of the most hilarious mistakes/typos you/your friends have made?
+   Q. What is one thing you find hot about a girl?
+   Q. What is one thing that makes you simp for a guy?
+   Q. Type "All i want for christmas is", "all i want for my birthday is" or "all i want 
+      for new years is", and keep pressing ur keyboard suggestion  and see what random 
+      paragraph u end up with- keep it under 100 words
+      (For laptop/pc users, use a word randomiser website- any works)
+   Q. If you could teleport to one place, where would you teleport?
+   Q. If you could create your own job title what would it be?
+   Q. When was the most inappropriate time u farted?
+   Q. What is your go-to song to sing in the shower?
+   Q. Have you ever blamed your fart on someone else?
+   Q. Would you rather let your dog eat out of your mouth or eat food out of a trash can?
+   Q. Would you rather be caught picking your nose or picking a wedgie?
+   Q. What is your favorite type of ice cream?
+   Q. Forest or city?
+   Q. What are your top three turn-ons?
+   Q. What are you most self-conscious about?
+   Q. What is the naughtiest thing you’ve done in public?
+   Q. Who here would you most like to make out with?
+   Q. Which song will you use to serenade your crush?
+   Q. What lie have you told that hurt someone?
+   Q. What is your fetish? Be honest.
+   Q. What is the silliest thing you have an emotional attachment to?
+   Q. What is the most embarrassing thing your parents have caught you doing?
+   Q. What secret about yourself did you tell someone in confidence and then they told
+      a lot of other people?
+   Q. What is the stupidest thing you have ever done?
+   Q. What is your ideal type?
+   Q. What was the most awkward romantic encounter you have had?
+   Q. What is the grossest thing you have had in your mouth?
+   Q. When was the last time you loved yourself? If you know what i mean. 
+   Q. Have you ever pretended to like a gift you hated and what did you do with it?
+   Q. If you had to date someone in this room, who would it be and why?
+   Q. Who do you fantasize about in this group? Or who would you most probably fantasize about?
+   Q. What would you do if you found out you were cheated on?
+   Q. What was your first impression of the person who sent this question? Is it any different 
+      now? Be honest, or else the duck will kill you.
+   Q. Who is the most easiest to talk out of the ones present in this group?
+   Q. If you had to stop talking to one person in this room, who would it be and why?
+   Q. What’s the longest amount of recreational time you’ve spent on your phone or computer?
+   Q. If you were to become famous, what would it be for?
+   Q. Where do you see yourself in five years?
+   Q. What is a word that you’ve made up?
+   Q. What is your least favorite meal that your mom makes?
+   Q. If you were a student at Hogwarts, which professor would you want?
+   Q. Have you ever lied during a round of Truth or Dare?
+   Q. Do you have a strange collection? If so, what?
+   Q. Have You Ever Cried From Watching A TV Show Or A Movie?
+   Q. When Was A Time That You Completely Lost It?
+   Q. If You Could Say Anything To One Person In Your Life Without Any Consequences, What Would It Be?
+   Q. How Many Romantic Interests Do You Think You Will Have For The Rest Of Your Life?
+   Q. Was There Ever A Time In Your Life That You Thought You Were Going To Die?
+   Q. What kind of parent do you think you will be?
+   Q. What Kids' Movie Do You Still Secretly Watch Over And Over?
+   Q. Who In This Room Do You Think Would Be The Worst Date?
+   Q. What Is Your Secret Talent If You Have One?
+   Q. Who Is The Craziest Person That You Know?
+   Q. What Book Are You Embarrassed To Have Read?
+   Q. Have you ever watched an r rated seen with your family especially your parents present?
+   Q. Describe the best date idea according to you.
+
+######################################## DARE #################################################
+   Q. Record urself trying to throw a paper in the trash can, until u get it right.
+   Q. Record urself doing a bottle flip until ur able to do it 3 times in a row.
+   Q. Try to talk while you're inhaling hehe.
+   Q. Eat 2 spoonfuls of cinnamon powder.
+   Q. Drink 500 ml of water in 10 seconds.
+   Q. Show your search history of the last 2 hours.
+   Q. Sing along WAP on spotify or wtv loudly.
+   Q. Type or talk in reverse for the next 5 questions. (Eg: Dad am I !hi)
+   Q. Use only 3 words to talk for the next 3 questions.
+   Q. Send a Pickup line to any 3 ppl from the offline list.
+   Q. Do 35 squats.
+   Q. Say something dirty to your 5th dm.
+   Q. Say somethign disturbing to your 1st dm.
+   Q. Let the rest of the group DM someone from your Instagram account.
+   Q. Twerk for a minute.
+   Q. Keep three ice cubes in your mouth until they melt.
+   Q. Try to put your whole fist in your mouth.
+   Q. Say two honest things about everyone else in the group.
+   Q. Try and make the group laugh as quickly as possible.
+   Q. Talk in an accent for the next 3 rounds.
+   Q. Sell a piece of trash to someone in the group using your best salesmanship.
+   Q. Compose a poem on the spot based on something the group comes up with.
+   Q. Post an extremely unflattering picture of yourself to the social media outlet of your 
+      choosing.
+   Q. After the group chooses one rude word, sing a song and insert that rude word once into 
+      every line of the song.
+   Q. Tell us top 3 things on your bucket list.
+   Q. Seduce a member of the same gender in the group.
+   Q. Choose someone from the group to give you a spanking.
+   Q. Have you ever had a crush on a teacher?
+   Q. Who do you prefer, your mom or your dad?
+   Q. How old were you when you found out how babies are made?
+   Q. Name top 3 on your naughty bucket list.
+   Q. Send an unflattering selfie to everyone in the room.
+   Q. Send feet pics. FAST.
+   Q. Send elbow pics. Come on, do it.
+   Q. Write an emotional speech out f nowhere in your class group. 
+      Don't reply to anything after that.
+   Q. Send a video of you talking with your tongue sticking out.
+   Q. Type pickles at the end of every sentence you say until it’s your turn again.
+   Q. Type BINIT in the middle of every sentence you say until it’s your turn again. 
+      We believe in worldwide binit domination.
+   Q. Let another person post a status on your behalf.
+   Q. Make up a story about a random object in the room.
+   Q. Arrange Them In Descending Order Of Importance – Money, Love, Family, Career, Friends.
+   Q. Reveal A Secret Thought That You’ve Had About Someone In The Group.
+   Q. Talk About The Craziest Thing That You Overheard.
+   Q. Sing The Chorus Of Your Favorite Cheesy Song.
+   Q. Yell Out The First Word That Comes To Your Mind Right Now.
+   Q. Name The Person You Hate The Most And List Their Positive Qualities.
+   Q. Explain your username and why u chose it?
+   Q.
+   Q.
+   Q.
+   Q.
+   Q.
+   Q.
+   Q.
+   Q.
+   Q.
+   Q.
+   Q.
+   Q.
