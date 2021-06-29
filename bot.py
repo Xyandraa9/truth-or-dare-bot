@@ -11,12 +11,13 @@ import requests
 load_dotenv()
 
 valid_server = ["binitagarwal's server","B-14"] 
+valid_server_id = ['762216687604465664','767602159868706817']
 
 TOKEN = os.getenv('DISCORD_TOKEN')
 DISCORD_GUILD = os.getenv('DISCORD_GUILD')
 
 def guild_check(ctx):
-    return str(ctx.guild) in valid_server
+    return (str(ctx.message.guild.id) in valid_server_id)
 
 bot = commands.Bot(command_prefix='!')
 bot.add_check(guild_check)
