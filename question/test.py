@@ -1,7 +1,7 @@
 import random
 
 count = 0
-with open('question_file.txt','r+') as question:
+with open('dare_question.txt','r+') as question:
     for i in question:
         count+=1
     question.seek(0)
