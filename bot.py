@@ -35,8 +35,9 @@ async def hello(ctx,arg="random"):
         embed.add_field(name=f"{question}",value=f'{author}',inline=False)
         embed.set_footer(text="Made with ❤️ by Nittishna and Binit")
         await ctx.send(embed=embed)
+        return
     
-    if arg.lower() == 'dare':
+    elif arg.lower() == 'dare':
         embed = discord.Embed(title="Dare",
                             type = "rich",
                             colour=colour.Color(0xe31970)
@@ -46,6 +47,7 @@ async def hello(ctx,arg="random"):
         embed.add_field(name=f"{question}",value=f'{author}',inline=False)
         embed.set_footer(text="Made with ❤️ by Nittishna and Binit")
         await ctx.send(embed=embed)
+        return
 
     else:
         embed = discord.Embed(title="ERROR",
@@ -56,6 +58,7 @@ async def hello(ctx,arg="random"):
         embed.add_field(name=f"Kindly add Truth or Dare",value=f'{author}',inline=False)
         embed.set_footer(text="Made with ❤️ by Nittishna and Binit")
         await ctx.send(embed=embed)
+        return
 
 
 # @slash.slash(name='hello')
