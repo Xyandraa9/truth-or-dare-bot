@@ -33,7 +33,7 @@ async def hello(ctx,arg="random"):
         author = ctx.author
         question = file_rand_return()
         embed.add_field(name=f"{question}",value=f'{author}',inline=False)
-        embed.set_footer(text="Made with ❤️ by Xyandraa9 and Binit")
+        embed.set_footer(text="Made with ❤️ by basic and Binit")
         await ctx.send(embed=embed)
         return
     
@@ -45,7 +45,7 @@ async def hello(ctx,arg="random"):
         author = ctx.author
         question = file_rand_return_dare()
         embed.add_field(name=f"{question}",value=f'{author}',inline=False)
-        embed.set_footer(text="Made with ❤️ by Xyandraa9 and Binit")
+        embed.set_footer(text="Made with ❤️ by basic and Binit")
         await ctx.send(embed=embed)
         return
 
@@ -56,7 +56,7 @@ async def hello(ctx,arg="random"):
                             )
         author = ctx.author
         embed.add_field(name=f"Kindly add Truth or Dare",value=f'{author}',inline=False)
-        embed.set_footer(text="Made with ❤️ by Xyandraa9 and Binit")
+        embed.set_footer(text="Made with ❤️ by basic and Binit")
         await ctx.send(embed=embed)
         return
 
