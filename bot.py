@@ -10,8 +10,6 @@ from question.dare import file_rand_return_dare
  
 load_dotenv()
 
-valid_server = ["binitagarwal's server","B-14"] 
-valid_server_id = ['762216687604465664','767602159868706817']
 
 TOKEN = os.getenv('DISCORD_TOKEN')
 DISCORD_GUILD = os.getenv('DISCORD_GUILD')
